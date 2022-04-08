@@ -1,0 +1,46 @@
+body {
+  margin:0;
+  }
+
+hr{
+  margin: 5% 0 1px 0;
+  width: 100%
+   }
+
+.footerline {
+    margin: 9% 0 10px 0;
+}
+
+.item0:hover, .item1:hover, .item2:hover, .item3:hover, .item4:hover {
+  color:grey;
+  }
+
+li {
+    padding: 2px
+    }
+
+.profile {
+  width: 85%;
+  border-radius: 100%;
+}
+
+.middle-container {
+    position: relative;
+    left: 5%;
+    margin:5%;
+    width: 100%;
+    font-family: 'Gothic A1', sans-serif;
+    font-size: 1rem;
+    }
+
+footer {
+    font-family: 'Gothic A1', sans-serif;
+    text-align: center;
+    margin: 0;
+    font-size: 0.75rem;
+}
+
+
+.currentyear {
+    padding: 10px
+}
